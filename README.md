@@ -66,25 +66,7 @@ We are a team of passionate developers from SRM Institute of Science and Technol
 
 ## 🎯 Problem Statement
 
-Developing a mobile application that enhances heritage tourism by offering:
-- Virtual tours of historical monuments
-- Smart navigation with cultural context
-- Interactive cultural experiences
-- Real-time translation and information
-- Augmented reality features
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome! Feel free to check [issues page](../../issues).
-
----
-
-<<<<<<< HEAD
-<p align="center">Made with ❤️ by Team Error 2.O</p>
+Developing a mobile application
 =======
 <p align="center">Made with ❤️ by Team Error 2.O</p>
->>>>>>> 63d3b29 (Update README.md with project details)
+
